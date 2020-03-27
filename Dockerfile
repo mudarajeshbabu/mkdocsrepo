@@ -4,16 +4,13 @@ FROM python:3.8.1-alpine3.11
 WORKDIR /tmp
 
 # Copy files necessary for build
-#COPY material material
 COPY MANIFEST.in MANIFEST.in
 COPY package.json package.json
 COPY README.md README.md
 COPY requirements.txt requirements.txt
-#COPY setup.py setup.py
 
 # Set working directory
 WORKDIR /docs
-#WORKDIR /root
 
 RUN pip install mkdocs
 
