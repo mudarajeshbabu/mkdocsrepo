@@ -1,34 +1,24 @@
 {
-  "name": "mkdocs-material",
+  "name": "mkdocs Portal",
   "version": "4.6.3",
-  "description": "A Material Design theme for MkDocs",
+  "description": "A MkDocs Portal",
   "keywords": [
     "mkdocs",
     "documentation",
     "theme"
   ],
-  "classifiers": [
-    "Development Status :: 5 - Production/Stable",
-    "License :: OSI Approved :: MIT License",
-    "Programming Language :: JavaScript",
-    "Programming Language :: Python",
-    "Topic :: Documentation",
-    "Topic :: Text Processing :: Markup :: HTML"
-  ],
-  "homepage": "https://squidfunk.github.io/mkdocs-material/",
   "bugs": {
-    "url": "https://github.com/squidfunk/mkdocs-material/issues",
-    "email": "martin.donath@squidfunk.com"
+    "url": "https://github.com/mudarajeshbabu",
+    "email": "muda.rajesh.babu@gmail.com"
   },
-  "license": "MIT",
   "author": {
-    "name": "Martin Donath",
-    "email": "martin.donath@squidfunk.com"
+    "name": "Muda Rajesh Babu",
+    "email": "muda.rajesh.babu@gmail.com"
   },
   "contributors": [],
   "repository": {
     "type": "git",
-    "url": "https://github.com/squidfunk/mkdocs-material.git"
+    "url": "https://github.com/mudarajeshbabu/mkdocsrepo.git"
   },
   "scripts": {
     "build": "make clean build",
